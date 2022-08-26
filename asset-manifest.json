@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Nikita-Zaharov/mesto-react.git/static/css/main.469415d0.css",
+    "main.js": "/Nikita-Zaharov/mesto-react.git/static/js/main.6d303015.js",
+    "static/js/787.5530211c.chunk.js": "/Nikita-Zaharov/mesto-react.git/static/js/787.5530211c.chunk.js",
+    "static/media/Inter-Black.ttf": "/Nikita-Zaharov/mesto-react.git/static/media/Inter-Black.cebeacf9cf3be04078de.ttf",
+    "static/media/Inter-Medium.ttf": "/Nikita-Zaharov/mesto-react.git/static/media/Inter-Medium.4ebf1acf62f447ea2f0d.ttf",
+    "static/media/Inter-Regular.ttf": "/Nikita-Zaharov/mesto-react.git/static/media/Inter-Regular.a3e5baa244e35d0f891d.ttf",
+    "static/media/Inter-Medium.woff": "/Nikita-Zaharov/mesto-react.git/static/media/Inter-Medium.150d196591fd96cf6db0.woff",
+    "static/media/Inter-Black.woff": "/Nikita-Zaharov/mesto-react.git/static/media/Inter-Black.3ebaafed742243e0b30e.woff",
+    "static/media/Inter-Regular.woff": "/Nikita-Zaharov/mesto-react.git/static/media/Inter-Regular.a74d11641d89d391b9ae.woff",
+    "static/media/logo.svg": "/Nikita-Zaharov/mesto-react.git/static/media/logo.1f1e95914acec5e332361dc22eb8f9b2.svg",
+    "static/media/heart.svg": "/Nikita-Zaharov/mesto-react.git/static/media/heart.87ed371465c7a6a1cd01.svg",
+    "index.html": "/Nikita-Zaharov/mesto-react.git/index.html",
+    "static/media/deletebutton.svg": "/Nikita-Zaharov/mesto-react.git/static/media/deletebutton.823b0cf1b0b7e9cb7cad.svg",
+    "static/media/likeactive.svg": "/Nikita-Zaharov/mesto-react.git/static/media/likeactive.e787eeb70bb65b7b453a.svg",
+    "static/media/CloseIcon.svg": "/Nikita-Zaharov/mesto-react.git/static/media/CloseIcon.ad98de32e342afafa1187ccb39ed5116.svg",
+    "static/media/editbutton.svg": "/Nikita-Zaharov/mesto-react.git/static/media/editbutton.8667ac4a523e8fc42e59641845fc8448.svg",
+    "static/media/addbutton.svg": "/Nikita-Zaharov/mesto-react.git/static/media/addbutton.d86bb2edc2f6eadb96b785d29c82b56e.svg",
+    "main.469415d0.css.map": "/Nikita-Zaharov/mesto-react.git/static/css/main.469415d0.css.map",
+    "main.6d303015.js.map": "/Nikita-Zaharov/mesto-react.git/static/js/main.6d303015.js.map",
+    "787.5530211c.chunk.js.map": "/Nikita-Zaharov/mesto-react.git/static/js/787.5530211c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469415d0.css",
+    "static/js/main.6d303015.js"
+  ]
+}
